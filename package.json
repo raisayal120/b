@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://raisayal120.github.io/b",
+  "homepage": "https://github.com/raisayal120/b",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
